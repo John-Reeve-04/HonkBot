@@ -8,7 +8,7 @@ The Honk Bot system is one of education through engineering. It aims to educate 
 ### Features
 - Main project (In progress):
   - Detects ship horn noises from audio input
-  - Creates and pulishes social media posts about the noises that are detected.
+  - Creates and publishes social media posts about the noises that are detected.
 - Demo: See the file header comment.
 
 ## Authors
